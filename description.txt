@@ -4,6 +4,11 @@ Credit to Terry for Fargowiltas Souls mod , i use some of its code to do this :)
 
 [ Changelog ]
 
+v.0.3
+- added hotkey toggle
+- platform now reset perfectly
+- added mod calls, you can extract the mod to check what it does
+
 v.0.2
 - added icon
 
